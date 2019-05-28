@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Basic Icon 1`] = `
+<
+  name="butterfly"
+/>
+`;
+
+exports[`Custom Icon 1`] = `
+<
+  iconColor="red"
+  iconSize="7rem"
+  name="butterfly"
+/>
+`;

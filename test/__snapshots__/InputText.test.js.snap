@@ -1,0 +1,3459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test simple InputText component rendering Simple 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c0 .input {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <input
+    aria-label="Label"
+    autoComplete="off"
+    className="input c1 c2"
+    label="Label"
+    onChange={[Function]}
+    placeholder={null}
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Test simple InputText component rendering Simple full width 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c0 .input {
+  width: -webkit-fill-available;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <input
+    aria-label="Label"
+    autoComplete="off"
+    className="input c1 c2"
+    label="Label"
+    onChange={[Function]}
+    placeholder={null}
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Test simple InputText component rendering Simple with custom style input 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c0 .input {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  color: red;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <input
+    aria-label="Label"
+    autoComplete="off"
+    className="input c1 c2"
+    label="Label"
+    onChange={[Function]}
+    placeholder={null}
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Test simple InputText component rendering Simple with custom style label 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c0 label {
+  color: red;
+}
+
+.c0 .input {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label>
+    Label
+  </label>
+  <input
+    aria-label="Label"
+    autoComplete="off"
+    className="input c1 c2"
+    label="Label"
+    onChange={[Function]}
+    placeholder={null}
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Test simple InputText component rendering Simple with label Top 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c0 .input {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label>
+    Label
+  </label>
+  <input
+    aria-label="Label"
+    autoComplete="off"
+    className="input c1 c2"
+    label="Label"
+    onChange={[Function]}
+    placeholder={null}
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Test styled InputText component rendering Lined 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c3 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+    <span
+      className="border"
+    />
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering Lined Background 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: lightgray;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c5 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c5 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1:not(:placeholder-shown) + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c5 .inputStyle .c1:focus + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c6 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c6 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c6 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c6 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c7 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c7 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c7 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c7 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c8 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c8 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c8 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c8 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c8 .inputStyle .c1 {
+  border-top: solid 0.125rem;
+  border-radius: 0.625rem;
+  border-bottom: 0;
+  padding: 0.9375rem;
+}
+
+.c8 .inputStyle .c1:not(:placeholder-shown) + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c8 .inputStyle .c1:focus + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c8 .inputStyle .c1:focus {
+  border-top: 0.125rem solid transparent;
+  padding: 0.9375rem;
+}
+
+.c8 .inputStyle .c1:not(:placeholder-shown) {
+  border-top: 0.125rem solid transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+    <span
+      className="border"
+    />
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering Lined Background radius 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c5 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c5 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: lightgray;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: 0.3125rem;
+  border-top-left-radius: 0.3125rem;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: 0.3125rem;
+  border-top-left-radius: 0.3125rem;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c6 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c6 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c6 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c6 .inputStyle .c1:not(:placeholder-shown) + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c6 .inputStyle .c1:focus + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c7 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c7 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c7 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c7 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c8 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c8 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c8 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c8 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c8 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c8 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c9 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c9 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c9 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c9 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c9 .inputStyle .c1 {
+  border-top: solid 0.125rem;
+  border-radius: 0.625rem;
+  border-bottom: 0;
+  padding: 0.9375rem;
+}
+
+.c9 .inputStyle .c1:not(:placeholder-shown) + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c9 .inputStyle .c1:focus + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c9 .inputStyle .c1:focus {
+  border-top: 0.125rem solid transparent;
+  padding: 0.9375rem;
+}
+
+.c9 .inputStyle .c1:not(:placeholder-shown) {
+  border-top: 0.125rem solid transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+    <span
+      className="border"
+    />
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering Lined full width 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fill-available;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+    <span
+      className="border"
+    />
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering LinedAnim 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  margin-left: 0.25rem;
+  padding-top: 0.5625rem;
+  top: 1rem;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.c0 .inputStyle .c1:not(:placeholder-shown) + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c0 .inputStyle .c1:focus + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c5 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c5 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c5 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c6 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c6 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c6 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c6 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+    <span
+      className="border"
+    />
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering Outlined 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.c0 .inputStyle .label {
+  color: transparent;
+  margin-left: 0.25rem;
+  top: 1rem;
+  left: 1rem;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.c0 legend {
+  line-height: 0.6875rem;
+  -webkit-transform: scale(0.75);
+}
+
+.c0 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c0 .inputStyle:focus-within legend {
+  color: #0277BD;
+}
+
+.c0 .inputStyle:focus-within fieldset {
+  border-color: #0277BD;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <fieldset>
+      <legend>
+        <span>
+          ​
+          Label
+        </span>
+      </legend>
+    </fieldset>
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering Outlined full width 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c5 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c5 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fill-available;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fill-available;
+}
+
+.c0 .inputStyle .label {
+  color: transparent;
+  margin-left: 0.25rem;
+  top: 1rem;
+  left: 1rem;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.c0 legend {
+  line-height: 0.6875rem;
+  -webkit-transform: scale(0.75);
+}
+
+.c0 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c0 .inputStyle:focus-within legend {
+  color: #0277BD;
+}
+
+.c0 .inputStyle:focus-within fieldset {
+  border-color: #0277BD;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <fieldset>
+      <legend>
+        <span>
+          ​
+          Label
+        </span>
+      </legend>
+    </fieldset>
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering Outlined with customs colors 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c5 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c5 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c6 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c6 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c6 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c7 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c7 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c7 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c7 .inputStyle .c1:not(:placeholder-shown) + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c7 .inputStyle .c1:focus + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c8 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c8 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c8 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c8 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c8 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c8 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c9 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c9 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c9 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c9 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c9 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c9 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c10 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c10 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c10 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c10 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c10 .inputStyle .c1 {
+  border-top: solid 0.125rem;
+  border-radius: 0.625rem;
+  border-bottom: 0;
+  padding: 0.9375rem;
+}
+
+.c10 .inputStyle .c1:not(:placeholder-shown) + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c10 .inputStyle .c1:focus + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c10 .inputStyle .c1:focus {
+  border-top: 0.125rem solid transparent;
+  padding: 0.9375rem;
+}
+
+.c10 .inputStyle .c1:not(:placeholder-shown) {
+  border-top: 0.125rem solid transparent;
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  color: red;
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid red;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: orange;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid red;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: orange;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 label {
+  background: none;
+}
+
+.c0 .inputStyle .label {
+  color: red;
+  margin-left: 0.25rem;
+  top: 1rem;
+  left: 1rem;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.c0 legend {
+  color: transparent;
+  padding: 0;
+  text-align: left;
+  line-height: 0.6875rem;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c0 .inputStyle .c1 {
+  border-top: solid 0.125rem red;
+  border-radius: 0.625rem;
+  border-bottom: 0;
+  padding: 0.9375rem;
+}
+
+.c0 .inputStyle .c1:not(:placeholder-shown) + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c0 .inputStyle .c1:focus + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c0 .inputStyle:focus-within fieldset {
+  border-color: orange;
+}
+
+.c0 .inputStyle .c1:focus {
+  border-top: 0.125rem solid transparent;
+  padding: 0.9375rem;
+}
+
+.c0 .inputStyle .c1:not(:placeholder-shown) {
+  border-top: 0.125rem solid transparent;
+}
+
+<div
+  className="c0"
+  color="red"
+  label="Label"
+  placeholder="Placeholder"
+>
+  <label
+    className="inputStyle"
+  >
+    <fieldset>
+      <legend>
+        <span>
+          ​
+          Label
+        </span>
+      </legend>
+    </fieldset>
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      color="red"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+  </label>
+</div>
+`;
+
+exports[`Test styled InputText component rendering OutlinedAnim 1`] = `
+.c2 {
+  font-family: Lato,sans-serif;
+  textOverflow: 'ellipsis';
+}
+
+.c2:focus {
+  outline: 0;
+}
+
+.c3 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c3 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c3 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c3 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c4 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c4 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c4 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c4 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c5 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c5 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c5 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c5 .inputStyle .c1:not(:placeholder-shown) + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c5 .inputStyle .c1:focus + span {
+  -webkit-transform: translateY(-1.25rem) scale(0.75);
+  -ms-transform: translateY(-1.25rem) scale(0.75);
+  transform: translateY(-1.25rem) scale(0.75);
+}
+
+.c6 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c6 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c6 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c6 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c6 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c7 .inputStyle .c1 {
+  width: -webkit-fill-available;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c7 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c7 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c7 .inputStyle .c1 {
+  padding: 1rem;
+  border-bottom: 0;
+}
+
+.c7 .inputStyle .c1:focus + span {
+  color: transparent;
+}
+
+.c0 {
+  font-family: Lato,sans-serif;
+  margin: 0.625rem;
+}
+
+.c0 .inputStyle {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c0 label {
+  background: none;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .label {
+  position: absolute;
+  left: 0;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+}
+
+.c0 fieldset {
+  top: -0.3125rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  position: absolute;
+  pointer-events: none;
+  border: 0.125rem solid;
+  border-radius: 0.625rem;
+}
+
+.c0 .inputStyle .border {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 0.125rem;
+  width: 100%;
+  background: #0277BD;
+  -webkit-transform: scaleX(0);
+  -ms-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1 {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 0;
+  padding-top: 1.5625rem;
+  padding-bottom: 0.3125rem;
+  padding-left: 0.3125rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-bottom: 0.125rem solid;
+  background: none;
+  border-radius: 0;
+  -webkit-transition: all 0.15s ease;
+  transition: all 0.15s ease;
+}
+
+.c0 .inputStyle .c1:focus {
+  background: none;
+}
+
+.c0 label:focus-within {
+  border-top-right-radius: none;
+  border-top-left-radius: none;
+}
+
+.c0 .inputStyle .c1:focus + span {
+  color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus + span + .border {
+  -webkit-transform: scaleX(1);
+  -ms-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+.c0 label {
+  background: none;
+}
+
+.c0 .inputStyle .label {
+  margin-left: 0.25rem;
+  top: 1rem;
+  left: 1rem;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+.c0 legend {
+  color: transparent;
+  padding: 0;
+  text-align: left;
+  line-height: 0.6875rem;
+  -webkit-transform: scale(0.75);
+  -ms-transform: scale(0.75);
+  transform: scale(0.75);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+.c0 .inputStyle .c1 {
+  border-top: solid 0.125rem;
+  border-radius: 0.625rem;
+  border-bottom: 0;
+  padding: 0.9375rem;
+}
+
+.c0 .inputStyle .c1:not(:placeholder-shown) + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c0 .inputStyle .c1:focus + span {
+  border-top: 0.125rem solid transparent;
+  -webkit-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  -ms-transform: translate(-0.125rem,-1.375rem) scale(0.75);
+  transform: translate(-0.125rem,-1.375rem) scale(0.75);
+}
+
+.c0 .inputStyle:focus-within fieldset {
+  border-color: #0277BD;
+}
+
+.c0 .inputStyle .c1:focus {
+  border-top: 0.125rem solid transparent;
+  padding: 0.9375rem;
+}
+
+.c0 .inputStyle .c1:not(:placeholder-shown) {
+  border-top: 0.125rem solid transparent;
+}
+
+<div
+  className="c0"
+  label="Label"
+  placeholder={null}
+>
+  <label
+    className="inputStyle"
+  >
+    <fieldset>
+      <legend>
+        <span>
+          ​
+          Label
+        </span>
+      </legend>
+    </fieldset>
+    <input
+      autoComplete="off"
+      className="c1 c2"
+      label="Label"
+      onChange={[Function]}
+      placeholder=" "
+      type="text"
+      value=""
+    />
+    <span
+      className="label"
+    >
+      Label
+    </span>
+  </label>
+</div>
+`;

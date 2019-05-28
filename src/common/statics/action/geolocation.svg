@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_geolocation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_geolocation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.4678,15.5672 L12.9808,10.3622 C12.9338,10.1962 12.8038,10.0662 12.6378,10.0192 L7.4328,8.5322 L16.8128,6.1872 L14.4678,15.5672 Z M17.8538,5.1462 C17.7298,5.0232 17.5498,4.9722 17.3788,5.0142 L5.3788,8.0142 C5.1588,8.0692 5.0038,8.2652 4.9998,8.4912 C4.9958,8.7172 5.1458,8.9192 5.3628,8.9802 L12.0958,10.9042 L14.0198,17.6372 C14.0808,17.8522 14.2778,18.0002 14.4998,18.0002 L14.5088,18.0002 C14.7348,17.9962 14.9308,17.8402 14.9858,17.6212 L17.9858,5.6212 C18.0278,5.4512 17.9778,5.2702 17.8538,5.1462 Z" id="ic_geolocation" fill="#0079FF"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Player/ic_volume_mid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Player/ic_volume_mid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.6381,9.0112 C16.9821,9.3112 18.0001,10.5322 18.0001,11.9992 C18.0001,13.4652 16.9821,14.6872 15.6381,14.9872 C15.3071,15.0612 15.0001,14.8072 15.0001,14.4662 L15.0001,9.5362 C15.0001,9.1962 15.3121,8.9422 15.6381,9.0112 Z M12.351,4.0835 C12.598,3.8905 13.004,4.0575 13,4.3275 L13,11.9765 L13,12.0575 L13,19.7045 C13,19.9765 12.594,20.0995 12.348,19.9055 L6,14.9995 L3,14.9995 C2.448,14.9995 2,14.5525 2,13.9995 L2,9.9995 C2,9.4475 2.448,8.9995 3,8.9995 L6,8.9995 L12.351,4.0835 Z" id="ic_volume_mid" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

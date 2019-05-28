@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_news_vp</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_news_vp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,9 L16,8 L19,8 L19,9 L16,9 Z M16,11 L16,10 L19,10 L19,11 L16,11 Z M16,13 L16,12 L19,12 L19,13 L16,13 Z M10,17 L10,16 L19,16 L19,17 L10,17 Z M10,15 L10,14 L19,14 L19,15 L10,15 Z M10,13 L10,8 L15,8 L15,13 L10,13 Z M21,17.5 L21,6 L8,6 L8,10.5 L8,17 C8,17.808 7.745,18.487 7.312,19 L19.5,19 C20.327,19 21,18.327 21,17.5 Z M3,17.034 C3,17.824 3.532,19 5,19 C6.475,19 7,17.967 7,17 L7,11 L3,11 L3,17.034 Z M21.5,5 C21.776,5 22,5.224 22,5.5 L22,17.5 C22,18.879 20.879,20 19.5,20 L5.5,20 C5.447,20 5.398,19.985 5.351,19.97 C5.234,19.98 5.122,20 5,20 C3.052,20 2,18.472 2,17.034 L2,10.5 C2,10.224 2.224,10 2.5,10 L7,10 L7,5.5 C7,5.224 7.224,5 7.5,5 L21.5,5 Z" id="ic_news_vp" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Social/ic_linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Social/ic_linkedin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,20 L16.688,20 L16.688,14.804 C16.688,13.5626667 16.6626667,11.9706667 14.964,11.9706667 C13.2386667,11.9706667 12.9733333,13.3186667 12.9733333,14.712 L12.9733333,20 L9.66133333,20 L9.66133333,9.312 L12.8413333,9.312 L12.8413333,10.7733333 L12.8866667,10.7733333 C13.3293333,9.932 14.4106667,9.04666667 16.024,9.04666667 C19.38,9.04666667 20,11.26 20,14.1386667 L20,20 Z M5.92266667,7.852 C4.86,7.852 4,6.988 4,5.924 C4,4.86266667 4.86,4 5.92266667,4 C6.984,4 7.84666667,4.86266667 7.84666667,5.924 C7.84666667,6.988 6.984,7.852 5.92266667,7.852 Z M4.26266667,20 L7.58266667,20 L7.58266667,9.312 L4.26266667,9.312 L4.26266667,20 Z" id="ic_linkedin" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

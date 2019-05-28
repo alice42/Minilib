@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Player/ic_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Player/ic_play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,2.6392 L4,21.3632 C4,21.8632 4.544,22.1672 4.963,21.9022 L19.706,12.5372 C20.098,12.2872 20.098,11.7092 19.706,11.4592 L4.963,2.0962 C4.544,1.8342 4,2.1392 4,2.6392" id="ic_play" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+.classTest{
+    background-color: aquamarine
+}
+.classTest:hover{
+    background-color: aqua;
+}
+
+.classTest_red{
+    background-color: tomato
+}
+.classTest_red:hover{
+    background-color: darkred
+}

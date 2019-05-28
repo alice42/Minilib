@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Flags/ic_flag_de</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags/ic_flag_de" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_flag_de" transform="translate(2.000000, 4.999800)">
+            <path d="M20,4.594 L20,1 C20,0.45 19.55,0 19,0 L1,0 C0.45,0 0,0.45 0,1 L0,4.594 L0.009,4.594 L20,4.594 Z" id="Fill-1" fill="#000000"></path>
+            <path d="M1,14.0002 L19,14.0002 C19.55,14.0002 20,13.5502 20,13.0002 L20,9.4062 L0.2,9.4062 C0.129,9.4062 0.067,9.4332 0,9.4472 L0,13.0002 C0,13.5502 0.45,14.0002 1,14.0002" id="Fill-4" fill="#FFDC40"></path>
+            <path d="M0.2002,9.4065 L20.0002,9.4065 L20.0002,4.5945 L0.0092,4.5945 C0.0062,4.5945 0.0032,4.5955 0.0002,4.5955 L0.0002,9.4045 C0.0032,9.4045 0.0062,9.4065 0.0092,9.4065 L0.2002,9.4065 Z" id="Fill-6" fill="#EA1C35"></path>
+        </g>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

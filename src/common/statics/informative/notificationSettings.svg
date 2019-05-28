@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_notification_settings</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_notification_settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17,6 L17,3.5 C17,3.225 16.775,3 16.5,3 L7.5,3 C7.225,3 7,3.225 7,3.5 L7,6 L17,6 Z M7,18 L17,18 L17,7 L7,7 L7,18 Z M17,20.5 L17,19 L7,19 L7,20.5 C7,20.775 7.225,21 7.5,21 L16.5,21 C16.775,21 17,20.775 17,20.5 Z M16.5,2 C17.327,2 18,2.673 18,3.5 L18,20.5 C18,21.327 17.327,22 16.5,22 L7.5,22 C6.673,22 6,21.327 6,20.5 L6,3.5 C6,2.673 6.673,2 7.5,2 L16.5,2 Z M13.5,4 C13.776,4 14,4.224 14,4.5 C14,4.776 13.776,5 13.5,5 L10.5,5 C10.224,5 10,4.776 10,4.5 C10,4.224 10.224,4 10.5,4 L13.5,4 Z M11.5,20.5 C11.224,20.5 11,20.276 11,20 C11,19.724 11.224,19.5 11.5,19.5 L12.5,19.5 C12.776,19.5 13,19.724 13,20 C13,20.276 12.776,20.5 12.5,20.5 L11.5,20.5 Z" id="ic_notification_settings" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Player/ic_volume_low</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Player/ic_volume_low" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.3511,4.084 L6.0001,9 L3.0001,9 C2.4481,9 2.0001,9.447 2.0001,10 L2.0001,14 C2.0001,14.553 2.4481,15 3.0001,15 L6.0001,15 L12.3471,19.906 C12.5941,20.1 13.0001,19.976 13.0001,19.705 L13.0001,12.057 L13.0001,11.976 L13.0001,4.327 C13.0041,4.057 12.5981,3.891 12.3511,4.084" id="ic_volume_mute" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

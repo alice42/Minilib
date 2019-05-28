@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.9727,19 C7.9167,19 7.8617,18.997 7.8057,18.99 C7.3837,18.94 7.0087,18.704 6.7877,18.35 L4.1997,12.232 C3.8047,11.596 4.0137,10.768 4.6677,10.382 C5.3217,9.997 6.1717,10.201 6.5677,10.838 L8.2437,14.359 L17.5047,5.524 C18.0447,4.998 19.1527,4.773 19.6927,5.3 C20.2327,5.826 20.0017,6.68 19.4617,7.206 L8.9507,18.605 C8.6897,18.859 8.3367,19 7.9727,19" id="ic_check" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

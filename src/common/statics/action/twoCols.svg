@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_2cols</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_2cols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,3 C20.552,3 21,3.447 21,4 L21,10 C21,10.553 20.552,11 20,11 L14,11 C13.448,11 13,10.553 13,10 L13,4 C13,3.447 13.448,3 14,3 L20,3 Z M10,3 C10.552,3 11,3.447 11,4 L11,10 C11,10.553 10.552,11 10,11 L4,11 C3.448,11 3,10.553 3,10 L3,4 C3,3.447 3.448,3 4,3 L10,3 Z M10,13 C10.552,13 11,13.447 11,14 L11,20 C11,20.553 10.552,21 10,21 L4,21 C3.448,21 3,20.553 3,20 L3,14 C3,13.447 3.448,13 4,13 L10,13 Z M20,13 C20.552,13 21,13.447 21,14 L21,20 C21,20.553 20.552,21 20,21 L14,21 C13.448,21 13,20.553 13,20 L13,14 C13,13.447 13.448,13 14,13 L20,13 Z" id="ic_2cols" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Social/ic_facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Social/ic_facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.0064,3 L3.9936,3 C3.4446,3 3,3.4446 3,3.9936 L3,20.0064 C3,20.5554 3.4446,21 3.9936,21 L12.6156,21 L12.6156,14.0394 L10.2774,14.0394 L10.2774,11.3142 L12.6156,11.3142 L12.6156,9.309 C12.6156,6.9852 14.034,5.7198 16.1076,5.7198 C17.1012,5.7198 17.9562,5.7936 18.2046,5.8242 L18.2046,8.256 L16.7754,8.256 C15.6468,8.256 15.4272,8.7924 15.4272,9.579 L15.4272,11.3142 L18.1254,11.3142 L17.7744,14.0394 L15.4272,14.0394 L15.4272,21 L20.0064,21 C20.5554,21 21,20.5554 21,20.0064 L21,3.9936 C21,3.4446 20.5554,3 20.0064,3" id="ic_facebook" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

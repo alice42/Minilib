@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Flags/ic_flag_it</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags/ic_flag_it" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_flag_it" transform="translate(2.000000, 5.000000)">
+            <polygon id="Fill-1" fill="#FFFFFF" points="6.401 13.9963 13.6 13.9963 13.6 0.0003 6.401 0.0003"></polygon>
+            <path d="M20,1 C20,0.45 19.55,2.66453526e-15 19,2.66453526e-15 L13.6,2.66453526e-15 L13.6,13.996 L19,13.996 C19.55,13.996 20,13.546 20,12.996 L20,1 Z" id="Fill-2" fill="#E81D2E"></path>
+            <path d="M1,-8.8817842e-16 C0.45,-8.8817842e-16 4.52970994e-14,0.45 4.52970994e-14,1 L4.52970994e-14,12.996 C4.52970994e-14,13.546 0.45,13.996 1,13.996 L6.4,13.996 L6.4,-8.8817842e-16 L1,-8.8817842e-16 Z" id="Fill-5" fill="#00B16C"></path>
+        </g>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

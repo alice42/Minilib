@@ -1,0 +1,847 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`:asBackground 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > div:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  background-position: center;
+  background-image: url(/image/koala.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <div />
+</div>
+`;
+
+exports[`:asBackground 2`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > div:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  background-position: left top;
+  background-image: url(/image/koala.jpg);
+  background-size: 100px 100px;
+  background-repeat: repeat;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <div />
+</div>
+`;
+
+exports[`:asBackground 3`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > div:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  background-position: left top;
+  background-image: url(/image/koala.jpg);
+  background-size: 50px 50px;
+  background-repeat: repeat;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <div />
+</div>
+`;
+
+exports[`:border 1`] = `
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: absolute;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  padding: 10px;
+  color: #000000;
+  background-color: transparent;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  border: solid 5px #000000;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+  <div
+    className="c1"
+  >
+    Hello
+  </div>
+</div>
+`;
+
+exports[`:border 2`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  border: dashed 2px red;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:filter 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:filter 2`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > div:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+  background-position: center;
+  background-image: url(/image/koala.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <div />
+</div>
+`;
+
+exports[`:height & :width 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 200px;
+  width: 500px;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  height="200px"
+  src="/image/koala.jpg"
+  width="500px"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:height & :width 2`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 200px;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  height="200px"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:height & :width 3`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 500px;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+  width="500px"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:object-fit 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:object-fit 2`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: cover;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:object-fit 3`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: contain;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:object-fit 4`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: fill;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:object-fit 5`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:overlay 1`] = `
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: absolute;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  padding: 10px;
+  color: #000000;
+  background-color: transparent;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+  <div
+    className="c1"
+  >
+    Hello
+  </div>
+</div>
+`;
+
+exports[`:overlay 2`] = `
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: absolute;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  padding: 10px;
+  color: #ECEFF1;
+  background-color: rgba(0,0,0,0.7);
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+  <div
+    className="c1"
+  />
+</div>
+`;
+
+exports[`:rounded 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 5px;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;
+
+exports[`:src 1`] = `
+.c0 {
+  position: relative;
+}
+
+.c0 > img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  object-fit: unset;
+}
+
+<div
+  className="c0"
+  src="/image/koala.jpg"
+>
+  <img
+    alt="koala.jpg"
+    src="/image/koala.jpg"
+    title="koala"
+  />
+</div>
+`;

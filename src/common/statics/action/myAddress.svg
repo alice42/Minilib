@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_my_address</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_my_address" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18,20.5 C18,20.776 17.775,21 17.5,21 L16,21 L16,3 L17.5,3 C17.775,3 18,3.224 18,3.5 L18,20.5 Z M6.5,21 C6.225,21 6,20.776 6,20.5 L6,19 L7,19 L7,18 L6,18 L6,15 L7,15 L7,14 L6,14 L6,10 L7,10 L7,9 L6,9 L6,6 L7,6 L7,5 L6,5 L6,3.5 C6,3.224 6.225,3 6.5,3 L15,3 L15,21 L6.5,21 Z M17.5,2 L16,2 L15,2 L6.5,2 C5.673,2 5,2.673 5,3.5 L5,5 L4,5 L4,6 L5,6 L5,9 L4,9 L4,10 L5,10 L5,14 L4,14 L4,15 L5,15 L5,18 L4,18 L4,19 L5,19 L5,20.5 C5,21.327 5.673,22 6.5,22 L15,22 L16,22 L17.5,22 C18.327,22 19,21.327 19,20.5 L19,3.5 C19,2.673 18.327,2 17.5,2 Z" id="ic_my_address" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_homepart_news</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_homepart_news" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,21 C7.038,21 3,16.963 3,12 C3,7.037 7.038,3 12,3 C16.962,3 21,7.037 21,12 C21,16.963 16.962,21 12,21 M12,2 C6.486,2 2,6.486 2,12 C2,17.514 6.486,22 12,22 C17.514,22 22,17.514 22,12 C22,6.486 17.514,2 12,2" id="Circle" fill="currentColor"></path>
+        <path d="M17.3291,10.0303 L12.5001,11.7863 L12.5001,7.4283 C12.5001,7.1523 12.2761,6.9283 12.0001,6.9283 C11.7241,6.9283 11.5001,7.1523 11.5001,7.4283 L11.5001,13.2143 L17.6711,10.9693 C17.9301,10.8763 18.0641,10.5893 17.9701,10.3293 C17.8751,10.0693 17.5901,9.9353 17.3291,10.0303" id="Needle" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

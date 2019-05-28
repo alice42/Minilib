@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_pin_map_multipoint</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_pin_map_multipoint" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19,8.6953 C19,12.3913 13.92,19.1503 12.003,21.9983 C12.002,22.0013 11.998,22.0013 11.997,21.9983 C9.981,19.1833 5,12.3913 5,8.6953 C5,4.9983 8.134,2.0003 12,2.0003 C15.866,2.0003 19,4.9983 19,8.6953" id="ic_pin_map_multipoint" fill="#EC008C"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

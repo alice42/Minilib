@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_disconnection</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_disconnection" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,12 C11.724,12 11.5,11.776 11.5,11.5 L11.5,1.5 C11.5,1.224 11.724,1 12,1 C12.276,1 12.5,1.224 12.5,1.5 L12.5,11.5 C12.5,11.776 12.276,12 12,12 Z M16.7363,3.0596 C19.9333,4.7776 22.0003,8.2876 22.0003,11.9996 C22.0003,17.5146 17.5133,21.9996 12.0003,21.9996 C6.4863,21.9996 2.0003,17.5146 2.0003,11.9996 C2.0003,8.2846 4.0663,4.7746 7.2633,3.0596 C7.5063,2.9296 7.8103,3.0196 7.9403,3.2636 C8.0713,3.5066 7.9793,3.8096 7.7363,3.9406 C4.8593,5.4846 3.0003,8.6476 3.0003,11.9996 C3.0003,16.9626 7.0373,20.9996 12.0003,20.9996 C16.9633,20.9996 21.0003,16.9626 21.0003,11.9996 C21.0003,8.6496 19.1403,5.4866 16.2633,3.9406 C16.0203,3.8096 15.9283,3.5066 16.0593,3.2636 C16.1893,3.0186 16.4943,2.9296 16.7363,3.0596 Z" id="ic_disconnection" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

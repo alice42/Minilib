@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Universe/ic_wine_spirits_thematic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Universe/ic_wine_spirits_thematic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,21.5 L15,10.313 C15,10.213 14.971,10.115 14.914,10.032 L13.191,7.491 C13.055,7.228 13,6.996 13,6.765 L13,6 L12,6 L12,6.765 C12,6.996 11.945,7.228 11.842,7.435 L10.086,10.032 C10.029,10.115 10,10.213 10,10.313 L10,21.5 C10,21.775 10.225,22 10.5,22 L14.5,22 C14.775,22 15,21.775 15,21.5 Z M12,5 L13,5 L13,2 L12,2 L12,5 Z M15.742,9.472 C15.911,9.721 16,10.012 16,10.313 L16,21.5 C16,22.327 15.327,23 14.5,23 L10.5,23 C9.673,23 9,22.327 9,21.5 L9,10.313 C9,10.012 9.089,9.721 9.258,9.472 L10.98,6.931 C10.981,6.918 11,6.842 11,6.765 L11,1 L14,1 L14,6.765 C14,6.842 14.019,6.918 14.053,6.987 L15.742,9.472 Z M10.75,10.417 L12.3,8.35 L12.7,8.65 L11.25,10.583 L11.25,21 L10.75,21 L10.75,10.417 Z" id="ic_wine_spirits_thematic" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

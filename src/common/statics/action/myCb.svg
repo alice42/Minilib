@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_my_cb</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_my_cb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,8 L21,6.758 C21,6.34 20.66,6 20.242,6 L3.758,6 C3.34,6 3,6.34 3,6.758 L3,8 L21,8 Z M21,17.242 L21,10 L3,10 L3,17.242 C3,17.66 3.34,18 3.758,18 L20.242,18 C20.66,18 21,17.66 21,17.242 Z M20.242,5 C21.212,5 22,5.789 22,6.758 L22,17.242 C22,18.211 21.212,19 20.242,19 L3.758,19 C2.788,19 2,18.211 2,17.242 L2,6.758 C2,5.789 2.788,5 3.758,5 L20.242,5 Z M5,14 L5,13 L12,13 L12,14 L5,14 Z M5,16 L5,15 L10,15 L10,16 L5,16 Z" id="ic_my_cb" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Flags/ic_flag_dn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flags/ic_flag_dn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+        <g id="ic_flag_dn" transform="translate(2.000300, 4.999500)">
+            <path d="M0.0001,8.0791 L6.4191,8.0791 L6.4191,14.0001 L1.0001,14.0001 C0.4471,14.0001 0.0001,13.5531 0.0001,13.0001 L0.0001,8.0791 Z M6.419,9.76996262e-15 L6.419,5.922 L-5.32907052e-15,5.922 L-5.32907052e-15,1 C-5.32907052e-15,0.448 0.447,9.76996262e-15 1,9.76996262e-15 L6.419,9.76996262e-15 Z M19.0001,9.76996262e-15 C19.5521,9.76996262e-15 20.0001,0.448 20.0001,1 L20.0001,5.922 L8.5761,5.922 L8.5761,9.76996262e-15 L19.0001,9.76996262e-15 Z M8.5762,14 L8.5762,8.079 L20.0002,8.079 L20.0002,13 C20.0002,13.553 19.5522,14 19.0002,14 L8.5762,14 Z" id="Combined-Shape" fill="#C60C30"></path>
+            <polygon id="Fill-12" fill="#FFFFFF" points="8.5762 0 6.4192 0 6.4192 5.922 0.0002 5.922 0.0002 8.079 6.4192 8.079 6.4192 14 8.5762 14 8.5762 8.079 20.0002 8.079 20.0002 5.922 8.5762 5.922"></polygon>
+        </g>
+    </g>
+</svg>

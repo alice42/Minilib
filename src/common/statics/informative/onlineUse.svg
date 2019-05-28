@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_online_use</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_online_use" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18,16 C18,18.617 15.378,21 12.5,21 C9.622,21 7,18.617 7,16 L7,8.309 L11,10.309 L11,9.5 C11,9.399 11.011,9.301 11.03,9.206 L7.082,7.232 C7.5,5.084 9.607,3.253 12,3.025 L12,8.093 C12.157,8.036 12.324,8 12.5,8 C12.676,8 12.843,8.036 13,8.093 L13,3.025 C15.393,3.253 17.5,5.084 17.918,7.232 L13.97,9.206 C13.989,9.301 14,9.399 14,9.5 L14,10.309 L18,8.309 L18,16 Z M12.5,2 C9.038,2 6,4.804 6,8 L6,16 C6,19.196 9.038,22 12.5,22 C15.962,22 19,19.196 19,16 L19,8 C19,4.804 15.962,2 12.5,2 Z" id="Mouse" fill="currentColor"></path>
+        <path d="M12.5,12 C11.675,12 11,11.325 11,10.5 L11,9.5 C11,8.675 11.675,8 12.5,8 C13.325,8 14,8.675 14,9.5 L14,10.5 C14,11.325 13.325,12 12.5,12" id="Button" fill="#EC008C"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1rem" height="1rem"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_1col</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_1col" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+        <path d="M20,3 L4,3 C3.448,3 3,3.447 3,4 L3,20 C3,20.553 3.448,21 4,21 L20,21 C20.552,21 21,20.553 21,20 L21,4 C21,3.447 20.552,3 20,3" id="ic_1col" fill="currentColor"></path>
+    </g>
+</svg>

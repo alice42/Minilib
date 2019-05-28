@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_email_settings</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_email_settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20.5,7 C20.534,7 20.563,7.013 20.596,7.02 L13.341,13.307 C12.753,13.792 11.248,13.792 10.664,13.312 L3.404,7.02 C3.437,7.013 3.466,7 3.5,7 L20.5,7 Z M14.987,12.541 L20.971,7.355 C20.985,7.402 21,7.449 21,7.5 L21,16.5 C21,16.602 20.962,16.691 20.909,16.771 L14.987,12.541 Z M9.4,12.878 L10.341,13.693 C10.729,14.012 11.362,14.171 11.998,14.171 C12.635,14.171 13.273,14.011 13.664,13.688 L14.6,12.878 L20.37,17 L3.63,17 L9.4,12.878 Z M3,16.5 L3,7.5 C3,7.449 3.015,7.402 3.029,7.356 L9.012,12.542 L3.091,16.771 C3.038,16.691 3,16.602 3,16.5 Z M20.5,6 L3.5,6 C2.673,6 2,6.673 2,7.5 L2,16.5 C2,17.327 2.673,18 3.5,18 L20.5,18 C21.327,18 22,17.327 22,16.5 L22,7.5 C22,6.673 21.327,6 20.5,6 Z" id="ic_email_settings" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

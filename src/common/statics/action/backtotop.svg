@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Action/ic_backtotop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Action/ic_backtotop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18.707,10.293 L12.707,4.293 C12.316,3.902 11.684,3.902 11.293,4.293 L5.293,10.293 C4.902,10.684 4.902,11.316 5.293,11.707 C5.488,11.902 5.744,12 6,12 C6.256,12 6.512,11.902 6.707,11.707 L11,7.414 L11,19 C11,19.553 11.448,20 12,20 C12.552,20 13,19.553 13,19 L13,7.414 L17.293,11.707 C17.488,11.902 17.744,12 18,12 C18.256,12 18.512,11.902 18.707,11.707 C19.098,11.316 19.098,10.684 18.707,10.293" id="ic_backtotop" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

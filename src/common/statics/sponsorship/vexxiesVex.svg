@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Sponsorship/ic_vexxies_vex</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Sponsorship/ic_vexxies_vex" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_vexxies_vex" transform="translate(5.000000, 2.000000)">
+            <polygon id="Fill-1" fill="#F8F501" points="0 8 0 12 7 20 3.999 12 3.999 8 7 0"></polygon>
+            <polygon id="Fill-2" fill="#E1DF01" points="7.00049992 0 4 8 4 12 7.00049992 20 10 12 10 8"></polygon>
+            <polygon id="Fill-3" fill="#A49B33" points="9.99957149 12 7 20 14 12"></polygon>
+            <polygon id="Fill-4" fill="#CCBF58" points="7 0 10 8 10 12 14 12 14 8"></polygon>
+        </g>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

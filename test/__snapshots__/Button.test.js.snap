@@ -1,0 +1,314 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Button component rendering Custom Style 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  height: 2.5rem;
+  width: 10rem;
+  -webkit-letter-spacing: 0.0625rem;
+  -moz-letter-spacing: 0.0625rem;
+  -ms-letter-spacing: 0.0625rem;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: unset;
+  padding: 0;
+  padding-right: unset;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  background-color: transparent;
+  color: #01579B;
+  border: 0.125rem solid #01579B;
+  border-radius: unset;
+  background-color: gray;
+  color: lightgray;
+  border-color: darkgray;
+  text-transform: lowercase;
+  border-bottom-right-radius: 3.75rem;
+  border-top-right-radius: 3.75rem;
+}
+
+.c0:hover {
+  background-color: #0288D1;
+  color: #FFFFFF;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+.c0 font-family:function fontFamily(props) {
+  return: props.theme.fontSecondary.bold;
+}
+
+.c0:hover {
+  background-color: lightgray;
+  color: white;
+}
+
+<button
+  aria-label={null}
+  className="c0"
+  label={null}
+/>
+`;
+
+exports[`Test Button component rendering Rounded active with fill 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  height: 2.5rem;
+  width: 10rem;
+  -webkit-letter-spacing: 0.0625rem;
+  -moz-letter-spacing: 0.0625rem;
+  -ms-letter-spacing: 0.0625rem;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: unset;
+  padding: 0;
+  padding-right: unset;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  background-color: #01579B;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 3.75rem;
+}
+
+.c0:hover {
+  background-color: #0288D1;
+  color: #FFFFFF;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<button
+  aria-label="Button Label"
+  className="c0"
+  label="Button Label"
+>
+  Button Label
+</button>
+`;
+
+exports[`Test Button component rendering Rounded active with no fill 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  height: 2.5rem;
+  width: 10rem;
+  -webkit-letter-spacing: 0.0625rem;
+  -moz-letter-spacing: 0.0625rem;
+  -ms-letter-spacing: 0.0625rem;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: unset;
+  padding: 0;
+  padding-right: unset;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  background-color: transparent;
+  color: #01579B;
+  border: 0.125rem solid #01579B;
+  border-radius: 3.75rem;
+}
+
+.c0:hover {
+  background-color: #0288D1;
+  color: #FFFFFF;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<button
+  aria-label="Button Label"
+  className="c0"
+  label="Button Label"
+>
+  Button Label
+</button>
+`;
+
+exports[`Test Button component rendering Squared active with fill 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  height: 2.5rem;
+  width: 10rem;
+  -webkit-letter-spacing: 0.0625rem;
+  -moz-letter-spacing: 0.0625rem;
+  -ms-letter-spacing: 0.0625rem;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: unset;
+  padding: 0;
+  padding-right: unset;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  background-color: #01579B;
+  color: #FFFFFF;
+  border: none;
+  border-radius: unset;
+}
+
+.c0:hover {
+  background-color: #0288D1;
+  color: #FFFFFF;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<button
+  aria-label="Button Label"
+  className="c0"
+  label="Button Label"
+>
+  Button Label
+</button>
+`;
+
+exports[`Test Button component rendering Squared active with no fill 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  min-height: -webkit-fit-content;
+  min-height: -moz-fit-content;
+  min-height: fit-content;
+  height: 2.5rem;
+  width: 10rem;
+  -webkit-letter-spacing: 0.0625rem;
+  -moz-letter-spacing: 0.0625rem;
+  -ms-letter-spacing: 0.0625rem;
+  letter-spacing: 0.0625rem;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: unset;
+  padding: 0;
+  padding-right: unset;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  background-color: transparent;
+  color: #01579B;
+  border: 0.125rem solid #01579B;
+  border-radius: unset;
+}
+
+.c0:hover {
+  background-color: #0288D1;
+  color: #FFFFFF;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<button
+  aria-label="Button Label"
+  className="c0"
+  label="Button Label"
+>
+  Button Label
+</button>
+`;

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Informative/ic_pin_map</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Informative/ic_pin_map" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,13 C9.791,13 8,11.209 8,9 C8,6.791 9.791,5 12,5 C14.209,5 16,6.791 16,9 C16,11.209 14.209,13 12,13 M12,2 C8.134,2 5,4.998 5,8.695 C5,12.392 9.981,19.184 11.997,21.998 C11.998,22.001 12.001,22 12.003,21.998 C13.92,19.15 19,12.392 19,8.695 C19,4.998 15.866,2 12,2" id="ic_pin_map" fill="#EC008C"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Navigation/ic_cross</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Navigation/ic_cross" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.707,12 L19.853,4.854 C20.049,4.658 20.049,4.342 19.853,4.146 C19.658,3.951 19.342,3.951 19.146,4.146 L12,11.293 L4.853,4.146 C4.658,3.951 4.342,3.951 4.146,4.146 C3.951,4.342 3.951,4.658 4.146,4.854 L11.293,12 L4.146,19.146 C3.951,19.342 3.951,19.658 4.146,19.854 C4.244,19.951 4.372,20 4.5,20 C4.628,20 4.756,19.951 4.853,19.854 L12,12.707 L19.146,19.854 C19.244,19.951 19.372,20 19.5,20 C19.628,20 19.756,19.951 19.853,19.854 C20.049,19.658 20.049,19.342 19.853,19.146 L12.707,12 Z" id="ic_cross" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

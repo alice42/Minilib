@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px"  version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Navigation/ic_arrow_up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Navigation/ic_arrow_up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19.4998,16 C19.3778,16 19.2548,15.955 19.1588,15.865 L11.9998,9.184 L4.8408,15.865 C4.6408,16.054 4.3228,16.042 4.1348,15.841 C3.9458,15.64 3.9568,15.323 4.1588,15.135 L11.6588,8.135 C11.8508,7.955 12.1488,7.955 12.3408,8.135 L19.8408,15.135 C20.0428,15.323 20.0538,15.64 19.8648,15.841 C19.7668,15.946 19.6338,16 19.4998,16" id="Arrow-color" fill="currentColor"></path>
+        <rect id="Padding" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>
